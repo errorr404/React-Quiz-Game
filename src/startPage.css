@@ -1,0 +1,26 @@
+.upperBodyContainer {
+    display: flex;
+    flex-flow: column;
+    justify-content: center;
+    height: 100vh;
+}
+.selectorWrapper {
+    margin-top: 20px;
+}
+.selector {
+    width: 100px;
+    margin-left: 20px;
+}
+.selector1 {
+    width: 100px;
+    margin-left: 136px;
+}
+.button {
+    background-color:  #258fcd;
+    border: 1px solid black;
+    color: white;
+    font-weight: 2;
+    width: 150px;
+    font-size: 20px;
+    border-radius: 3px;
+}

@@ -1,0 +1,19 @@
+.headerWrapper {
+    display: flex;
+    flex-flow: row;
+    justify-content: flex-end;
+    margin-top: 20px;
+}
+.button {
+    background-color:  #258fcd;
+    border: 1px solid black;
+    color: white;
+    font-weight: 2;
+    width: 150px;
+    font-size: 20px;
+    border-radius: 3px;
+}
+.score {
+    font-size: 25px;
+    font-weight: 2;
+}
